@@ -18,22 +18,6 @@ Questo progetto utilizza Blender e Unity per creare una replica in realtà aumen
 - **ARFoundation**: Framework AR multipiattaforma
 - **ARCore/ARKit**: Librerie di realtà aumentata specifiche per la piattaforma
 
-## 📁 Struttura del Progetto
-
-```
-repository/
-├── Assets/                # Risorse Unity
-│   ├── Models/            # Modelli 3D esportati da Blender
-│   ├── Scenes/            # Scene Unity
-│   ├── Scripts/           # Script C#
-│   └── ...
-├── Blender/               # File di progetto Blender
-│   ├── Models/            # Modelli 3D sorgente
-│   ├── Textures/          # Texture usate nei modelli
-│   └── ...
-└── README.md              # Questo file
-```
-
 ## 🚦 Requisiti di Sistema
 
 ### Per Sviluppo:
